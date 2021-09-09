@@ -1,1 +1,1 @@
-# movingSSVEP
+# moving-SSVEP
